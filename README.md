@@ -11,7 +11,11 @@ In Cloud 9, go to the file called `README.md.` Use the following questions as a 
 * Challenges: What was one thing you struggled with? How did you solve it?
 * Technology Used: List 3 key parts of the code. 
 
-##Add another page
+##Linking to Multiple Pages
 
-In Cloud9, add another page to the jQuery Funhouse project. Then link to that page from index.html.
+In Cloud9, create a new HTML file in the jqueryfunhouse project called `morefun.html`. Give it a title and in the body write "FUN!".
+
+*HINT: Use the HTML template.*
+
+Next, link to that page from `index.html` with text that says "Click here for more fun". When you click on "Click here for more fun", it should go to your second HTML page.
 
