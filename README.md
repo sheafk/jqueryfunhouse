@@ -20,7 +20,10 @@ In Cloud 9, go to the file called `README.md.` Use the following questions as a 
 *HINT: Use the HTML template.*
 
 ###Link from `index.html`
-* Next, link to `morefun.html` that page from `index.html` with text that says "Click here for more fun". 
+* Next, link to `morefun.html`from `index.html` with text that says "Click here for more fun". 
 
 When you click on "Click here for more fun", it should go to your second HTML page.
 
+##Peer Programming
+
+If you have completed both of these challenges, great job! Look around the room and find a friend to help! 👀
