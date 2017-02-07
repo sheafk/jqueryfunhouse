@@ -3,7 +3,7 @@ ScriptEd Unit 5 project
 
 #jQuery Funhouse Bonus Challenges
 
-##Fill out the Readme
+##1) Fill out the Readme
 
 In Cloud 9, go to the file called `README.md.` Use the following questions as a guide to write your first Readme.
 
@@ -11,7 +11,7 @@ In Cloud 9, go to the file called `README.md.` Use the following questions as a 
 * Challenges: What was one thing you struggled with? How did you solve it?
 * Technology Used: List 3 key parts of the code. 
 
-##Linking to Multiple Pages
+##2) Linking to Multiple Pages
 
 ###Create a new page
 * In Cloud9, create a new HTML file in the jqueryfunhouse project called `morefun.html`. 
@@ -19,11 +19,11 @@ In Cloud 9, go to the file called `README.md.` Use the following questions as a 
 
 *HINT: Use the HTML template.*
 
-###Link from `index.html`
+###Link to the new page
 * Next, link to `morefun.html`from `index.html` with text that says "Click here for more fun". 
 
 When you click on "Click here for more fun", it should go to your second HTML page.
 
-##Peer Programming
+##3) Help a friend
 
 If you have completed both of these challenges, great job! Look around the room and find a friend to help! 👀
